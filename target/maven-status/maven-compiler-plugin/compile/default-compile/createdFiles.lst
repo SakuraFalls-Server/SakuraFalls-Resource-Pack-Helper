@@ -1,0 +1,17 @@
+net/sakurafalls/resource_pack_helper/json/JsonFile.class
+net/sakurafalls/resource_pack_helper/json/model/JsonFurnitureModel.class
+net/sakurafalls/resource_pack_helper/processor/item/ItemModelProcessor.class
+net/sakurafalls/resource_pack_helper/json/model/JsonItemModel.class
+net/sakurafalls/resource_pack_helper/processor/FileProcessor.class
+net/sakurafalls/resource_pack_helper/json/vanilla/JsonVanillaItem.class
+net/sakurafalls/resource_pack_helper/processor/item/FurnitureModelProcessor.class
+net/sakurafalls/resource_pack_helper/ResourcePackHelperMain.class
+net/sakurafalls/resource_pack_helper/processor/item/ModelProcessor.class
+net/sakurafalls/resource_pack_helper/json/vanilla/JsonVanillaItemPre1_21.class
+net/sakurafalls/resource_pack_helper/config/Config.class
+net/sakurafalls/resource_pack_helper/processor/directory/FurnitureDirectoryProcessor.class
+net/sakurafalls/resource_pack_helper/processor/directory/ItemDirectoryProcessor.class
+net/sakurafalls/resource_pack_helper/processor/structure/FurnitureModelStructureProcessor.class
+net/sakurafalls/resource_pack_helper/processor/structure/ItemModelStructureProcessor.class
+net/sakurafalls/resource_pack_helper/json/model/JsonModel.class
+net/sakurafalls/resource_pack_helper/processor/structure/ModelStructureProcessor.class
